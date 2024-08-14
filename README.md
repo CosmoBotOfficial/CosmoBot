@@ -24,40 +24,55 @@ CosmoBot is the ultimate all in one Discord bot for managing your discord server
 #### v0.1 (current):
 
 ✅ Moderation commands
+ 
 ✅ Utility commands
+
 ⬜ Logging
 
 #### v0.2:
 
 ⬜ Embed builder
+
 ⬜ Scheduled messages
+
 ⬜ AFK modules
 
 #### v0.4:
 
 ⬜ Advanced moderation panel
+
 ⬜ Basic economy
+
 ⬜ Announcements
+
 ⬜ Secret feature drop (hint: "gc") 👀
 
 #### v0.6:
 
 ⬜ Reaction roles
+
 ⬜ Auto moderation
+
 ⬜ Music player + Spotify integration
+
 ⬜ Polls
+
 ⬜ Giveaways
 
 #### v0.8:
 
 ⬜ Anti raid + Anti nuke
+
 ⬜ Quarantine
+
 ⬜ Advanced economy and games
+
 ⬜ Tickets
 
 #### v1.0:
 
 ⬜ Dashboard
+
 ⬜ AI
 
 #### v1.2:
