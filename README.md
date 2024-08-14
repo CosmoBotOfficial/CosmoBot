@@ -21,7 +21,7 @@ CosmoBot is the ultimate all in one Discord bot for managing your discord server
 
 ## Roadmap
 
-#### v0.1 (current):
+### v0.1 (current):
 
 ✅ Moderation commands
  
@@ -29,7 +29,7 @@ CosmoBot is the ultimate all in one Discord bot for managing your discord server
 
 ⬜ Logging
 
-#### v0.2:
+### v0.2:
 
 ⬜ Embed builder
 
@@ -37,7 +37,7 @@ CosmoBot is the ultimate all in one Discord bot for managing your discord server
 
 ⬜ AFK modules
 
-#### v0.4:
+### v0.4:
 
 ⬜ Advanced moderation panel
 
@@ -47,7 +47,7 @@ CosmoBot is the ultimate all in one Discord bot for managing your discord server
 
 ⬜ Secret feature drop (hint: "gc") 👀
 
-#### v0.6:
+### v0.6:
 
 ⬜ Reaction roles
 
@@ -59,7 +59,7 @@ CosmoBot is the ultimate all in one Discord bot for managing your discord server
 
 ⬜ Giveaways
 
-#### v0.8:
+### v0.8:
 
 ⬜ Anti raid + Anti nuke
 
@@ -69,13 +69,13 @@ CosmoBot is the ultimate all in one Discord bot for managing your discord server
 
 ⬜ Tickets
 
-#### v1.0:
+### v1.0:
 
 ⬜ Dashboard
 
 ⬜ AI
 
-#### v1.2:
+### v1.2:
 
 *To the future... ✨*
 
