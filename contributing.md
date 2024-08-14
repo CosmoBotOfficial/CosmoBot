@@ -70,7 +70,7 @@ DISCORD_BOT_TOKEN=your_discord_bot_token_here
 ## Run the bot locally to ensure everything is set up correctly:
 
 ```bash
-python bot.py
+python main.py
 ```
 
 ## Making Your Changes
