@@ -35,7 +35,7 @@ CosmoBot is the ultimate all in one Discord bot for managing your discord server
 
 ⬜ Scheduled messages
 
-⬜ AFK modules
+⬜ AFK module
 
 ### v0.4:
 
