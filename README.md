@@ -23,42 +23,42 @@ We have many unique features planned, some of which are an innovative moderation
 
 #### v0.1 (current):
 
-- [x] Moderation commands
-- [x] Utility commands
-- [ ] Logging
+✅ Moderation commands
+✅ Utility commands
+⬜ Logging
 
 #### v0.2:
 
-- [ ] Embed builder
-- [ ] Scheduled messages
-- [ ] AFK modules
+⬜ Embed builder
+⬜ Scheduled messages
+⬜ AFK modules
 
 #### v0.4:
 
-- [ ] Advanced moderation panel
-- [ ] Basic economy
-- [ ] Announcements
-- [ ] Secret feature drop (hint: "gc") 👀
+⬜ Advanced moderation panel
+⬜ Basic economy
+⬜ Announcements
+⬜ Secret feature drop (hint: "gc") 👀
 
 #### v0.6:
 
-- [ ] Reaction roles
-- [ ] Auto moderation
-- [ ] Music player + Spotify integration
-- [ ] Polls
-- [ ] Giveaways
+⬜ Reaction roles
+⬜ Auto moderation
+⬜ Music player + Spotify integration
+⬜ Polls
+⬜ Giveaways
 
 #### v0.8:
 
-- [ ] Anti raid + Anti nuke
-- [ ] Quarantine
-- [ ] Advanced economy and games
-- [ ] Tickets
+⬜ Anti raid + Anti nuke
+⬜ Quarantine
+⬜ Advanced economy and games
+⬜ Tickets
 
 #### v1.0:
 
-- [ ] Dashboard
-- [ ] AI
+⬜ Dashboard
+⬜ AI
 
 #### v1.2:
 
@@ -67,8 +67,15 @@ We have many unique features planned, some of which are an innovative moderation
 ## Contributing
 
 Contributions to CosmoBot are welcome! Feel free to create issues or submit pull requests.
-For more specific information on contributions, please read the [CONTRIBUTING.md] document.
+For more specific information on contributions, please read **[CONTRIBUTING.md](CONTRIBUTING)**.
+
+## Donations
+
+As CosmoBot is open source, we rely on donations to pay for servers and technical infrastructure.
+Any donations are greatly appreciated!
+
+*Donations are currently being setup...*
 
 ## License
 
-This project is licensed under the [AGPLv3 License](LICENSE).
+This project is licensed under the **[AGPLv3 License](LICENSE)**.
