@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-<img src="images/cosmobot_banner.png" alt="CosmoBot Logo" width="600"/>
+<img src="images/cosmobot_banner.jpg" alt="CosmoBot Logo" width="600"/>
 </p>
 
 CosmoBot is the ultimate all in one Discord bot for managing your discord server!
