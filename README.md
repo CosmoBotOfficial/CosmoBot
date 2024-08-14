@@ -1,13 +1,13 @@
 <div align="center">
-# ✨ CosmoBot
 
 <p align="center">
-<img src="images/cosmobot_logo.png" alt="CosmoBot Logo" width="600"/>
+<img src="images/cosmobot_banner.png" alt="CosmoBot Logo" width="600"/>
 </p>
 
 CosmoBot is the ultimate all in one Discord bot for managing your discord server!
 
 > ⚠️ **Note:** CosmoBot is still a WIP, as we are still in early development, please don't expect everything to be polished.
+
 </div>
 
 ## Features
@@ -21,26 +21,26 @@ We have many unique features planned, some of which are an innovative moderation
 
 ## Roadmap
 
-##### v0.1 (current):
+#### v0.1 (current):
 
 - [x] Moderation commands
 - [x] Utility commands
 - [ ] Logging
 
-##### v0.2:
+#### v0.2:
 
 - [ ] Embed builder
 - [ ] Scheduled messages
 - [ ] AFK modules
 
-##### v0.4:
+#### v0.4:
 
 - [ ] Advanced moderation panel
 - [ ] Basic economy
 - [ ] Announcements
 - [ ] Secret feature drop (hint: "gc") 👀
 
-##### v0.6:
+#### v0.6:
 
 - [ ] Reaction roles
 - [ ] Auto moderation
@@ -48,26 +48,26 @@ We have many unique features planned, some of which are an innovative moderation
 - [ ] Polls
 - [ ] Giveaways
 
-##### v0.8:
+#### v0.8:
 
 - [ ] Anti raid + Anti nuke
 - [ ] Quarantine
 - [ ] Advanced economy and games
 - [ ] Tickets
 
-##### v1.0:
+#### v1.0:
 
 - [ ] Dashboard
 - [ ] AI
 
-##### v1.2:
+#### v1.2:
 
 *To the future... ✨*
 
 ## Contributing
 
 Contributions to CosmoBot are welcome! Feel free to create issues or submit pull requests.
-For more specific information on contributions, please read the [CONTRIBUTING.md](CONTRIBUTING) document.
+For more specific information on contributions, please read the [CONTRIBUTING.md] document.
 
 ## License
 
