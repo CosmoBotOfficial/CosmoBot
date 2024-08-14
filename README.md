@@ -17,7 +17,7 @@ CosmoBot is the ultimate all in one Discord bot for managing your discord server
 - Feature rich logging, log anything such as message edits, moderation actions, or server leaves/joins.
 - Games and economy, battle your way to supremacy in our virtual Cosmoverse or play any of the many minigames!
 
-We have many unique features planned, some of which are an innovative moderation panel and a terminal based CosmoBot command center for the developers among you...
+**We have many unique features planned, some of which are an innovative moderation panel and a terminal based CosmoBot command center for the developers among you...**
 
 ## Roadmap
 
