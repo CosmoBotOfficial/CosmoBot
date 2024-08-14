@@ -67,7 +67,7 @@ CosmoBot is the ultimate all in one Discord bot for managing your discord server
 ## Contributing
 
 Contributions to CosmoBot are welcome! Feel free to create issues or submit pull requests.
-For more specific information on contributions, please read **[CONTRIBUTING.md](CONTRIBUTING)**.
+For more specific information on contributions, please read **[CONTRIBUTING](CONTRIBUTING.md)**.
 
 ## Donations
 
