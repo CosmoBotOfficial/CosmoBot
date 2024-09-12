@@ -27,11 +27,11 @@ CosmoBot is the ultimate all in one Discord bot for managing your discord server
  
 ✅ Utility commands
 
-⬜ Logging
+✅ Logging
 
 ### v0.2:
 
-⬜ Embed builder
+✅ Embed builder
 
 ⬜ Scheduled messages
 
